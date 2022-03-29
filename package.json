@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "cypress": "cypress open",
+    "cy:run": "cypress run"
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",
